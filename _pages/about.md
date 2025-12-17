@@ -51,6 +51,7 @@ I also hold the CFA Certificate in ESG Investing.
 **Quantitative Modeling:** Implemented algorithms including **Non-linear Regression**, **Logistic Regression**, and **Analytic Hierarchy Process (AHP)** to model policy trade-offs and derive a holistic sustainability score.
 **Data Pipeline:** Utilized **Python** to independently perform data collection, cleansing, and visualization of real-world policy and tourism data from the Juneau municipal government.
 **Technical Writing:** Authored and edited the final research paper in **LaTeX**, ensuring precise technical documentation of model structures and policy recommendations.
+
 ---
 
 ### 💼 Internships
