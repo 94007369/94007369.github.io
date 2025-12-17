@@ -44,14 +44,12 @@ Currently, I am actively exploring the application of AI in global governance an
 ### 💻 Selected Projects
 
 **Sustaining Juneau: A Policy-Driven Approach to Tourism Resilience**
-*Team Leader | MCM Mathematical Contest in Modeling (Meritorious Winner)*
+*Team Leader | MCM Mathematical Contest in Modeling (Meritorious Winner)* [[PDF]](./assets/MCM_2025_Juneau_Sustainability_Policy.pdf)
 - **Quantitative Modeling:** Implemented algorithms including **Non-linear Regression**, **Logistic Regression**, and **Analytic Hierarchy Process (AHP)** to model policy trade-offs and derive a holistic sustainability score.
 - **Data Pipeline:** Utilized **Python** to independently perform data collection, cleansing, and visualization of real-world policy and tourism data from the Juneau municipal government.
 - **Technical Writing:** Authored and edited the final research paper in **LaTeX**, ensuring precise technical documentation of model structures and policy recommendations.
-
 ---
 
 ### 💼 Internships
 - **Meituan (美团)** | Business Analyst Intern, AI Strategy (Jul 2025 - Oct 2025)
 
-💡 几个让这个主页更出彩的小建议：
