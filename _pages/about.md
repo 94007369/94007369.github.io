@@ -35,7 +35,7 @@ I also hold the CFA Certificate in ESG Investing.
 - Literature Review: Conducted comprehensive reviews on political trust diffusion from a political psychology perspective, synthesizing key theoretical findings across peer-reviewed journals.
 
 
-- **Research Assistant | Digital Governance & Environmental Policy**
+**Research Assistant | Digital Governance & Environmental Policy**
 - *Advisor: [Prof. Ziteng Fan](https://igpp.fudan.edu.cn/e7/96/c18201a255894/page.htm), Fudan University*
 - Paper: *Approach Based on Relevant Policies: Cross-regional Digital Collaborative Capacity in China’s Carbon Trading Market*
 - Methods (NLP): Conducted text mining analysis using TF-IDF and Latent Dirichlet Allocation (LDA) on policy documents to quantify regional collaborative capacity.
