@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,9 @@ I am very fortunate to be advised by [Prof. Ziteng Fan](https://sirpa.fudan.edu.
 You can find my CV here: [CV-Bohong Liu](./assets/CV-BohongLiu.pdf).
 
 [Email](mailto:23300160032@m.fudan.edu.cn)
-Currently, I am actively exploring the application of AI in global governance and engaging in data-driven policy research. I also hold the CFA Certificate in ESG Investing.
+
+Currently, I am actively exploring the application of AI in global governance and engaging in data-driven policy research.
+I also hold the CFA Certificate in ESG Investing.
 
 ### 🔥 News
 - **[Dec. 2025]** Working on a research proposal regarding Energy Systems and Environmental Policy for Summer 2026.
@@ -51,5 +53,5 @@ Currently, I am actively exploring the application of AI in global governance an
 ---
 
 ### 💼 Internships
-- **Meituan (美团)** | Business Analyst Intern, AI Strategy (Jul 2025 - Oct 2025)
+**Meituan (美团)** | Business Analyst Intern, AI Strategy (Jul 2025 - Oct 2025)
 
