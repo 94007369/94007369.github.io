@@ -1,59 +1,27 @@
 ---
+layout: academic
+title: "Bohong (Lucia) Liu"
 permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: [/about/, /about.html]
+subtitle: "Computational Political Science · Text-as-Data · Political Economy"
 ---
 
-I am a third-year undergraduate student at the [School of International Relations and Public Affairs (SIRPA)](https://sirpa.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/).
+I am an undergraduate student in International Politics at **Fudan University**, currently studying at the **University of California, Los Angeles** as an exchange student for Fall 2026. I attended **Stanford Summer Session** in Summer 2026.
 
-My research interests lie at the intersection of Global Public Policy, Computational Social Science, and Sustainable Finance (ESG). I am passionate about applying quantitative methods (NLP, Machine Learning) to analyze political economy dynamic.
+My research interests are in **computational political science, text-as-data, quantitative methods, and political economy**. I am interested in how technology reshapes governance and the relationships between public institutions and private-sector actors.
 
-I am very fortunate to be advised by [Prof. Ziteng Fan](https://igpp.fudan.edu.cn/e7/96/c18201a255894/page.htm) from IGPP and [Prof. Xing Chen](https://faculty.fudan.edu.cn/xingchen/zh_CN/) from SIRPA, Fudan University.
+My research experience combines dataset construction, computational analysis of policy texts, statistical modeling, and interviews. Recent projects examine private-sector ties in U.S. AI governance and cross-regional collaboration in China's carbon trading market.
 
-You can find my CV here: [CV-Bohong Liu](./assets/CV-BohongLiu.pdf).
+<div class="actions"><a class="button primary" href="{{ '/research/' | relative_url }}">Explore my research</a><a class="button" href="{{ '/assets/CV-BohongLiu.pdf' | relative_url }}">Download CV (PDF)</a></div>
 
-[Email](mailto:23300160032@m.fudan.edu.cn)
+## Selected research
 
-Currently, I am actively exploring the application of AI in global governance and engaging in data-driven policy research.
-I also hold the CFA Certificate in ESG Investing.
+<div class="project"><h3><a href="{{ '/research/#ai-governance' | relative_url }}">Private-sector embeddedness in U.S. AI governance</a></h3><p>Constructing an original officials dataset and developing the PRPE measure to compare industry-government ties across presidential administrations.</p><p class="meta">Stanford course research project · Summer 2026</p></div>
 
-### 🔥 News
-- **[Dec. 2025]** Working on a research proposal regarding Energy Systems and Environmental Policy for Summer 2026.
-- **[May 2025]** Won the **Best Paper Award** at the FDU-ECNU-SJTU Academic Forum.
-- **[Jan. 2025]** Awarded **Meritorious Winner** (Top ~7%) in the MCM Mathematical Contest in Modeling.
+<div class="project"><h3><a href="{{ '/research/#carbon-trading' | relative_url }}">Text-as-data and China's carbon trading policies</a></h3><p>Using TF-IDF, topic modeling, and interviews to study cross-regional digital collaborative capacity.</p><p class="meta">Fudan University · Best Paper Award, FDU-ECNU-SJTU Academic Forum, May 2025</p></div>
 
----
+## Academic background
 
-### 🔬 Research Experience
-
-**Research Assistant | Political Psychology & Gender Politics**
-- *Advisor: [Prof. Xing Chen](https://faculty.fudan.edu.cn/xingchen/zh_CN/), Fudan University*
-- Data Engineering: Collected, organized, and cleaned large-scale quantitative datasets focused on female representation in politics, facilitating the empirical analysis of gender dynamics within political institutions.
-- Literature Review: Conducted comprehensive reviews on political trust diffusion from a political psychology perspective, synthesizing key theoretical findings across peer-reviewed journals.
-
-
-**Research Assistant | Digital Governance & Environmental Policy**
-- *Advisor: [Prof. Ziteng Fan](https://igpp.fudan.edu.cn/e7/96/c18201a255894/page.htm), Fudan University*
-- Paper: *Approach Based on Relevant Policies: Cross-regional Digital Collaborative Capacity in China’s Carbon Trading Market*
-- Methods (NLP): Conducted text mining analysis using TF-IDF and Latent Dirichlet Allocation (LDA) on policy documents to quantify regional collaborative capacity.
-- Fieldwork:Conducted semi-structured interviews with enterprises and the Shanghai Environment and Energy Exchange (SEEE) to validate model findings.
-- Award: Recognized with the "Best Paper Award"at the FDU-ECNU-SJTU Academic Forum (May 2025).
-
----
-
-### 💻 Selected Projects
-
-**Sustaining Juneau: A Policy-Driven Approach to Tourism Resilience**
-*Team Leader | MCM Mathematical Contest in Modeling (Meritorious Winner)* [[PDF]](./assets/MCM_2025_Juneau_Sustainability_Policy.pdf)
-- Quantitative Modeling: Implemented algorithms including Non-linear Regression, Logistic Regression, and Analytic Hierarchy Process (AHP) to model policy trade-offs and derive a holistic sustainability score.
-- Data Pipeline: Utilized Python to independently perform data collection, cleansing, and visualization of real-world policy and tourism data from the Juneau municipal government.
-- Technical Writing: Authored and edited the final research paper in LaTeX, ensuring precise technical documentation of model structures and policy recommendations.
-
----
-
-### 💼 Internships
-**Meituan (美团)** | Business Analyst Intern, AI Strategy (Jul 2025 - Oct 2025)
-
+- **Fudan University** — B.A. in International Politics, September 2023–present. GPA: **3.89/4.00**.
+- **UCLA** — Undergraduate Exchange Student, Fall 2026 (non-degree).
+- **Stanford University** — Summer Session Student, Summer 2026 (non-degree). CS109: Probability for Computer Scientists (**A**); POLISCI 157: Politics of Artificial Intelligence (**A+**).
